@@ -1,0 +1,1246 @@
+Started HTTP and WebSocket JSON-RPC server at http://127.0.0.1:8545/
+
+Accounts
+========
+
+WARNING: These accounts, and their private keys, are publicly known.
+Any funds sent to them on Mainnet or any other live network WILL BE LOST.
+
+Account #0: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266 (10000 ETH)
+Private Key: 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+
+Account #1: 0x70997970C51812dc3A010C7d01b50e0d17dc79C8 (10000 ETH)
+Private Key: 0x59c6995e998f97a5a0044966f0945389dc9e86dae88c7a8412f4603b6b78690d
+
+Account #2: 0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC (10000 ETH)
+Private Key: 0x5de4111afa1a4b94908f83103eb1f1706367c2e68ca870fc3fb9a804cdab365a
+
+Account #3: 0x90F79bf6EB2c4f870365E785982E1f101E93b906 (10000 ETH)
+Private Key: 0x7c852118294e51e653712a81e05800f419141751be58f605c371e15141b007a6
+
+Account #4: 0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65 (10000 ETH)
+Private Key: 0x47e179ec197488593b187f80a00eb0da91f1b9d0b13f8733639f19c30a34926a
+
+Account #5: 0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc (10000 ETH)
+Private Key: 0x8b3a350cf5c34c9194ca85829a2df0ec3153be0318b5e2d3348e872092edffba
+
+Account #6: 0x976EA74026E726554dB657fA54763abd0C3a0aa9 (10000 ETH)
+Private Key: 0x92db14e403b83dfe3df233f83dfa3a0d7096f21ca9b0d6d6b8d88b2b4ec1564e
+
+Account #7: 0x14dC79964da2C08b23698B3D3cc7Ca32193d9955 (10000 ETH)
+Private Key: 0x4bbbf85ce3377467afe5d46f804f221813b2bb87f24d81f60f1fcdbf7cbf4356
+
+Account #8: 0x23618e81E3f5cdF7f54C3d65f7FBc0aBf5B21E8f (10000 ETH)
+Private Key: 0xdbda1821b80551c9d65939329250298aa3472ba22feea921c0cf5d620ea67b97
+
+Account #9: 0xa0Ee7A142d267C1f36714E4a8F75612F20a79720 (10000 ETH)
+Private Key: 0x2a871d0798f97d79848a013d4936a73bf4cc922c825d33c1cf7073dff6d409c6
+
+Account #10: 0xBcd4042DE499D14e55001CcbB24a551F3b954096 (10000 ETH)
+Private Key: 0xf214f2b2cd398c806f84e317254e0f0b801d0643303237d97a22a48e01628897
+
+Account #11: 0x71bE63f3384f5fb98995898A86B02Fb2426c5788 (10000 ETH)
+Private Key: 0x701b615bbdfb9de65240bc28bd21bbc0d996645a3dd57e7b12bc2bdf6f192c82
+
+Account #12: 0xFABB0ac9d68B0B445fB7357272Ff202C5651694a (10000 ETH)
+Private Key: 0xa267530f49f8280200edf313ee7af6b827f2a8bce2897751d06a843f644967b1
+
+Account #13: 0x1CBd3b2770909D4e10f157cABC84C7264073C9Ec (10000 ETH)
+Private Key: 0x47c99abed3324a2707c28affff1267e45918ec8c3f20b8aa892e8b065d2942dd
+
+Account #14: 0xdF3e18d64BC6A983f673Ab319CCaE4f1a57C7097 (10000 ETH)
+Private Key: 0xc526ee95bf44d8fc405a158bb884d9d1238d99f0612e9f33d006bb0789009aaa
+
+Account #15: 0xcd3B766CCDd6AE721141F452C550Ca635964ce71 (10000 ETH)
+Private Key: 0x8166f546bab6da521a8369cab06c5d2b9e46670292d85c875ee9ec20e84ffb61
+
+Account #16: 0x2546BcD3c84621e976D8185a91A922aE77ECEc30 (10000 ETH)
+Private Key: 0xea6c44ac03bff858b476bba40716402b03e41b8e97e276d1baec7c37d42484a0
+
+Account #17: 0xbDA5747bFD65F08deb54cb465eB87D40e51B197E (10000 ETH)
+Private Key: 0x689af8efa8c651a91ad287602527f3af2fe9f6501a7ac4b061667b5a93e037fd
+
+Account #18: 0xdD2FD4581271e230360230F9337D5c0430Bf44C0 (10000 ETH)
+Private Key: 0xde9be858da4a475276426320d5e9262ecfc3ba460bfac56360bfa6c4c28b4ee0
+
+Account #19: 0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199 (10000 ETH)
+Private Key: 0xdf57089febbacf7ba0bc227dafbffa9fc08a93fdc68e1e42411a14efcf23656e
+
+WARNING: These accounts, and their private keys, are publicly known.
+Any funds sent to them on Mainnet or any other live network WILL BE LOST.
+
+eth_blockNumber
+eth_chainId
+eth_accounts
+eth_blockNumber
+eth_chainId
+eth_chainId (2)
+eth_estimateGas
+eth_getBlockByNumber
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: record
+  Contract address:    0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Transaction:         0x7e7090438674dd7f24cfaa3bbdd78862beaa7ebcb17ba8f09370fa4980bd8443
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            708069 of 708069
+  Block #1:            0x59fe69cc679a047fde35477050cdd9459f8580c8ee0df14dd6a8c5f0ddf208d3
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_blockNumber
+eth_blockNumber (2)
+eth_blockNumber (3)
+eth_blockNumber (4)
+eth_blockNumber (5)
+eth_blockNumber (6)
+eth_blockNumber (7)
+eth_blockNumber (8)
+eth_blockNumber (9)
+eth_blockNumber (10)
+eth_blockNumber (11)
+eth_blockNumber (12)
+eth_blockNumber (13)
+eth_blockNumber (14)
+eth_blockNumber (15)
+eth_blockNumber (16)
+eth_blockNumber (17)
+eth_blockNumber (18)
+eth_blockNumber (19)
+eth_blockNumber (20)
+eth_blockNumber (21)
+eth_blockNumber (22)
+eth_blockNumber (23)
+eth_blockNumber (24)
+eth_blockNumber (25)
+eth_blockNumber (26)
+eth_blockNumber (27)
+eth_blockNumber (28)
+eth_blockNumber (29)
+eth_blockNumber (30)
+eth_blockNumber (31)
+eth_blockNumber (32)
+eth_blockNumber (33)
+eth_blockNumber (34)
+eth_blockNumber (35)
+eth_blockNumber (36)
+eth_blockNumber (37)
+eth_blockNumber (38)
+eth_blockNumber (39)
+eth_blockNumber (40)
+eth_blockNumber (41)
+eth_blockNumber (42)
+eth_blockNumber (43)
+eth_blockNumber (44)
+eth_blockNumber (45)
+eth_accounts
+eth_chainId
+eth_accounts
+eth_blockNumber
+eth_chainId
+eth_chainId (2)
+eth_estimateGas
+eth_getBlockByNumber
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: record
+  Contract address:    0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Transaction:         0x3f47079092dc84d655e59569b2d6eb083ea7c44d1bbf8345d7d818547531f6b9
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            708069 of 708069
+  Block #2:            0xdf99d5d87c918dcdb8e445a833516f3864a08889e57ad15f34b388e3cdd43da2
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_getBalance
+eth_chainId
+eth_getBalance
+eth_chainId
+eth_getBalance
+eth_chainId
+eth_getBalance
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       record#buyRecord
+  Transaction:         0xdb7b6ca66f7bd01b4a9998357cde075d26044b96db6a836a9e02ba3e0b7f089c
+  From:                0x70997970c51812dc3a010c7d01b50e0d17dc79c8
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0.0001 gwei
+  Gas used:            147397 of 147397
+  Block #3:            0xe64377a47bc5785261d1fb112ea605207acf7d2182292afb7246f1664cdd1d52
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       record#buyRecord
+  Transaction:         0x137db2a3e5459f295125bab95a371fdfddd100d3eff3739536cd17751ace5e83
+  From:                0x3c44cdddb6a900fa2b585dd299e03d12fa4293bc
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0.0001 gwei
+  Gas used:            130297 of 130297
+  Block #4:            0xcefb47b0bb90a66b823ad632d14e21fbb97222c79a2129d0b9f8556c11d7168b
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       record#buyRecord
+  Transaction:         0x3638d17c5fd35a835b41f777dff7e7c4cd1b3f44488b1e81808230d6e981aa5f
+  From:                0x90f79bf6eb2c4f870365e785982e1f101e93b906
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0.0001 gwei
+  Gas used:            130357 of 130357
+  Block #5:            0xe02ba2b3f062dbc073e958387dcdd08198524bcae67bdb9454892c26a0685a61
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getBalance
+eth_chainId
+eth_getBalance
+eth_chainId
+eth_getBalance
+eth_chainId
+eth_getBalance
+eth_chainId
+eth_call
+  Contract call:       record#getMemos
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+
+eth_chainId
+eth_accounts
+eth_chainId
+eth_blockNumber
+eth_chainId
+eth_estimateGas
+eth_getBlockByNumber
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: <UnrecognizedContract>
+  Contract address:    0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+  Transaction:         0x6963130ed83ef0af08f513d2b5a4478bd63f4b9a05ab4559762c78e7f8ac929b
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            1158111 of 1158111
+  Block #6:            0x937c2fb975f51ac52b0c1e40f28da71a4c65a674410ddedf0632ac122e33a5ba
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_blockNumber
+net_version
+eth_getBlockByNumber
+eth_getBalance
+eth_getBalance (2)
+eth_getBalance (3)
+eth_getBalance (4)
+eth_getBalance (5)
+eth_getBalance (6)
+eth_getBalance (7)
+eth_getBalance (8)
+eth_getBalance (9)
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_blockNumber (2)
+eth_estimateGas
+eth_getCode
+eth_accounts
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_blockNumber
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+eth_getTransactionCount
+eth_feeHistory
+eth_estimateGas
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_blockNumber
+eth_sendRawTransaction
+  Contract call:       <UnrecognizedContract>
+  Transaction:         0x0581facc6cd13f9ccf726ff18eda00612698de1c1ec038bcacf40237b996007c
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+  Value:               0 ETH
+  Gas used:            113169 of 113169
+  Block #7:            0x8576ad48afbd68e3dde078d7c7d7e81b8c7d7a3f137a656a0c4054c2df3c20c8
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_feeHistory (2)
+eth_blockNumber
+eth_getBlockByNumber
+eth_getTransactionReceipt
+eth_getBalance
+eth_getBalance (2)
+eth_getBalance (3)
+eth_getBalance (4)
+eth_getBalance (5)
+eth_getBalance (6)
+eth_getBalance (7)
+eth_getBlockByHash
+eth_getBalance
+eth_getBalance (2)
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_blockNumber
+eth_feeHistory
+eth_feeHistory (2)
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+eth_feeHistory
+eth_blockNumber
+eth_getTransactionCount
+eth_feeHistory
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_estimateGas
+eth_getCode
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_feeHistory (2)
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_sendRawTransaction
+  Contract call:       <UnrecognizedContract>
+  Transaction:         0x28436372e2c4ebd51c944b712e52593b0a6b2d7334e69d825946407e2f13c53b
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+  Value:               0 ETH
+  Gas used:            111879 of 111879
+  Block #8:            0xa689792a68824cce39b4ee6d1fb5e21b45c198a2f96a283bc668c8c8422a9a8f
+
+eth_blockNumber
+eth_feeHistory
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_getBlockByNumber
+eth_getTransactionReceipt
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_getBalance
+eth_getBalance (2)
+eth_getBalance (3)
+eth_getBalance (4)
+eth_getBalance (5)
+eth_getBalance (6)
+eth_getBalance (7)
+eth_getBalance (8)
+eth_getBalance (9)
+eth_getBlockByHash
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_blockNumber
+eth_blockNumber (2)
+eth_feeHistory
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_getTransactionCount
+eth_sendRawTransaction
+  Contract call:       <UnrecognizedContract>
+  Transaction:         0x363a7d0647eebde88d4751aa8ab5267b2548e96e6cc4775c4bc98c66c03a25d4
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+  Value:               0 ETH
+  Gas used:            96069 of 96069
+  Block #9:            0x20b7d635a8557ef8462278cfb10bfddbf87d2fc6e9436c6f3da20be1f6bfa6d7
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_feeHistory (2)
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+eth_blockNumber
+eth_getTransactionReceipt
+eth_getBlockByHash
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_blockNumber
+eth_getBlockByNumber
+eth_feeHistory
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+eth_blockNumber
+eth_estimateGas
+eth_getCode
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_blockNumber
+eth_getBalance
+eth_getBalance (2)
+eth_getBalance (3)
+eth_getBalance (4)
+eth_getBalance (5)
+eth_getBalance (6)
+eth_getBalance (7)
+eth_getBalance (8)
+eth_getBalance (9)
+eth_feeHistory
+eth_getTransactionCount
+eth_blockNumber
+eth_sendRawTransaction
+  Contract call:       <UnrecognizedContract>
+  Transaction:         0x7ac1b690d166bace85021c731aa231b3f05542de2148bab864a32248aa57270b
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+  Value:               0 ETH
+  Gas used:            96069 of 96069
+  Block #10:           0x588631b510c7432ee7f6aeefb6a43e9f73b07e8caf3b1ae6804bdcfbe20ad051
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_feeHistory (2)
+eth_blockNumber
+eth_getTransactionReceipt
+eth_getBalance
+eth_getBalance (2)
+eth_getBalance (3)
+eth_getBalance (4)
+eth_getBalance (5)
+eth_getBalance (6)
+eth_getBalance (7)
+eth_getBalance (8)
+eth_getBalance (9)
+eth_blockNumber
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0x15d34aaf54267db7d7c367839aaf71a00a2c6a65
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+eth_getBlockByHash
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_blockNumber
+eth_getBlockByNumber
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+  Error: Transaction reverted without a reason string
+      at <UnrecognizedContract>.<unknown> (0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      at HardhatNode.runCall (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/node.ts:656:20)
+      at EthModule._callAction (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/modules/eth.ts:354:9)
+      at HardhatNetworkProvider._sendWithLogging (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:144:22)
+      at HardhatNetworkProvider.request (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/provider/provider.ts:121:18)
+      at JsonRpcHandler._handleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:191:20)
+      at JsonRpcHandler._handleSingleRequest (/home/sam/Auxillary/recKeeper/node_modules/hardhat/src/internal/hardhat-network/jsonrpc/handler.ts:152:17)
+
+eth_feeHistory
+eth_feeHistory (2)
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_feeHistory
+eth_feeHistory (2)
+eth_blockNumber
+eth_feeHistory
+eth_feeHistory (2)
+eth_blockNumber
+eth_blockNumber (2)
+eth_call
+  Contract call:       <UnrecognizedContract>
+  From:                0x976ea74026e726554db657fa54763abd0c3a0aa9
+  To:                  0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+
+eth_blockNumber
+eth_blockNumber (2)
+net_version
+eth_getBlockByNumber
+eth_getBalance
+eth_getBalance (2)
+eth_getBalance (3)
+eth_getBalance (4)
+eth_getBalance (5)
+eth_getBalance (6)
+eth_getBalance (7)
+eth_getBalance (8)
+eth_getBalance (9)
+eth_blockNumber
+eth_feeHistory
+eth_call
+  WARNING: Calling an account which is not a contract
+  From:                0x976ea74026e726554db657fa54763abd0c3a0aa9
+  To:                  0x46436dcb1b29b111a00bb61f5475b420ef1104eb
+
+eth_estimateGas
+eth_getCode
+eth_feeHistory
+eth_blockNumber
+eth_getTransactionCount
+eth_feeHistory
+eth_sendRawTransaction
+  Transaction:         0xa3ba288455fd9fe3d608801b507ac2cfa4ba9d6791bd950015fc8f0674a3458b
+  From:                0x976ea74026e726554db657fa54763abd0c3a0aa9
+  To:                  0x46436dcb1b29b111a00bb61f5475b420ef1104eb
+  Value:               0.001 ETH
+  Gas used:            22180 of 22181
+  Block #11:           0x936a45f412aa678ece88eb8e6085795b43bc706977e6372fa3df0b26065f95bf
+
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_getTransactionReceipt
+eth_blockNumber
+eth_blockNumber (2)
+eth_getBalance
+eth_getBalance (2)
+eth_getBalance (3)
+eth_getBalance (4)
+eth_getBalance (5)
+eth_getBalance (6)
+eth_getBalance (7)
+eth_getBalance (8)
+eth_getBlockByHash
+eth_feeHistory
+eth_getBalance
+eth_feeHistory
+eth_feeHistory (2)
+eth_blockNumber
+eth_feeHistory
+eth_blockNumber
+eth_blockNumber (2)
+eth_feeHistory
